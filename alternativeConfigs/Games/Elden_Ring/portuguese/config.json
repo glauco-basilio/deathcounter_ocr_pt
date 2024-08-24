@@ -4,7 +4,7 @@
     "refresh_time_success": "6000",
     "debug_mode": "disabled",
     "compact_mode": "disabled",
-    "crop_file":"crop_2560x1080.json",
+    "crop_file":"crop.json",
     "mask_file":"mask.json",
     "ocr_string": "VOCÊMORREU",
     "language": "por",
